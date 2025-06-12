@@ -49,7 +49,7 @@ python baixar_arquivo.py
 
 O script irá:
 1. Conectar à conta de email especificada
-2. Verificar as 10 mensagens mais recentes
+2. Verificar as 10 mensagens mais recentes que ainda nao foram lidas
 3. Baixar anexos de emails que correspondam aos critérios
 4. Salvar os anexos na pasta configurada
 
